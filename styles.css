@@ -40,3 +40,8 @@ a:link {
 .sngname {
     padding: 5px;
 }
+
+img {
+    border-style: outset;
+    border-color: mediumorchid;
+}
