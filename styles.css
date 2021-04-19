@@ -36,3 +36,7 @@ p {
 a:link {
     background-color: lightskyblue;
 }
+
+li {
+    padding: 3px;
+}
