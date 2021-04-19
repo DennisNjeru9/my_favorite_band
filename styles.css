@@ -1,0 +1,47 @@
+body {
+    background-color: lightgray;
+    margin: 0 auto; padding: 20px;
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(0, 128, 0);
+    font-family: Helvetica;
+    border: 2px solid brown;
+    text-align: center;
+}
+
+h3 {
+    color: rgb(0, 0, 255);
+    text-align: center;
+    border: 1px solid brown;
+}
+
+h4 {
+    color: rgb(0,0,0);
+    text-align: center;
+    border: 1px solid brown;
+}
+
+p {
+    display: block;
+    
+}
+
+a:link {
+    background-color: lightskyblue;
+}
+
+.sngname {
+    padding: 5px;
+}
+
+img {
+    border-style: inset;
+    border-color:limegreen;
+}
